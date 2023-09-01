@@ -1,7 +1,7 @@
 ### Olá, eu sou o Danilo Oliveira
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Analaíse e Desenvolvimento de Sistemas
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 👯 Contate-me no Email: Danilooliveira.contato@hotmail.com
 
 ## Tecnologias que eu uso no meu dia
