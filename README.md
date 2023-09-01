@@ -16,5 +16,5 @@
 </div><br/>
 
 ### Últimos videos:
-- [TENTANDO APRENDER PROGRAMAÇÃO DO ZERO #01]([https://youtu.be/TjkFGrjkXfc](https://youtu.be/EEXPglaJmKs))<br/>
-- [TENTANDO APRENDER PROGRAMAÇÃO DO ZERO #01]([https://youtu.be/Ab-kGzlCCWI](https://youtu.be/iYHTL3NK1kc)https://youtu.be/iYHTL3NK1kc)<br/>
+- [TENTANDO APRENDER PROGRAMAÇÃO DO ZERO #01](https://www.youtube.com/watch?v=iYHTL3NK1kc)<br/>
+- [TENTANDO APRENDER PROGRAMAÇÃO DO ZERO #01](https://www.youtube.com/watch?v=EEXPglaJmKs)<br/>
