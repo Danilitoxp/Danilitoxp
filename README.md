@@ -4,15 +4,6 @@
 
 <p align="center">Transformando Café em Codigo. <br><br> <p align="center">Como profissional, meu objetivo é aprimorar a presença online da sua empresa. Com experiência em design gráfico, unindo minha paixão pelo design à missão de proporcionar uma experiência superior na web para as empresas.</p> &nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- 
-
-
-
 ## Minhas Habilidades
 
 #### PRINCIPAIS:
