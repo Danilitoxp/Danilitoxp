@@ -2,7 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="./img/capaDanilo.jfif" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Transformando Café em Codigo. <br><br> <p align="center">Como profissional, meu objetivo é aprimorar a presença online da sua empresa. Com experiência em design gráfico, unindo minha paixão pelo design à missão de proporcionar uma experiência superior na web para as empresas.</p> &nbsp;
+<h1 align="center">Transformando Café em Codigo. <br><br></h1> <p align="center"> Como profissional, meu objetivo é aprimorar a presença online da sua empresa. Com experiência em design gráfico, unindo minha paixão pelo design à missão de proporcionar uma experiência superior na web para as empresas.</p> &nbsp;
+
 
 ## Minhas Habilidades
 
@@ -14,8 +15,10 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+&nbsp;
+&nbsp;
 
 #### ESTUDANDO NO MOMENTO:
 
@@ -29,9 +32,9 @@
 #### CONTATOS:
 
 <div> 
-<a target="_blank" href="https://www.instagram.com/danilitoxp/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a target="_blank" href="https://www.instagram.com/danilitoxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:danilooliveira.contato@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:danilooliveira.contato@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danilooliveiraxp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
