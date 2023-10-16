@@ -1,6 +1,7 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilooliveiraxp/)](https://https://www.linkedin.com/in/danilooliveiraxp/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilooliveiraxp/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
-[![Gmail Badge](https://img.shields.io/badge/-nanda.kipper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.kipper@gmail.com)](mailto:nanda.kipper@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-danilooliveira.contato@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilooliveira.contato@hotmail.com)](mailto:danilooliveira.contato@hotmail.com)
+
 <img align="center" style="margin-bottom:100px" width=100% src="./img/capaDanilo.jfif" />
 &nbsp;&nbsp;&nbsp;
 
