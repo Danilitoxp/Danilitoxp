@@ -1,7 +1,7 @@
 
  
 
-<img align="center" style="margin-bottom:100px" width=100% src="./img/capaDanilo.jfif" />
+<img align="center" style="margin-bottom:100" width=100% src="./img/capaDanilo.jfif" />
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">Transformando Café em Codigo. <br><br></h1> <p align="center"> Como profissional, meu objetivo é aprimorar a presença online da sua empresa. Com experiência em design gráfico, unindo minha paixão pelo design à missão de proporcionar uma experiência superior na web para as empresas.</p> &nbsp;
