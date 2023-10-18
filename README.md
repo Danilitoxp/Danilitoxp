@@ -34,10 +34,9 @@
 #### CONTATOS:
 
 <div> 
-<a target="_blank" href="https://www.instagram.com/danilitoxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:danilooliveira.contato@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danilooliveiraxp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a target="_blank" href="https://www.instagram.com/danilitoxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2c2c2c?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:danilooliveira.contato@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-2c2c2c?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danilooliveiraxp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2c2c2c?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
   
   
