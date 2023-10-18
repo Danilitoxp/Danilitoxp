@@ -9,6 +9,7 @@
 
 ## Minhas Habilidades
 
+
 #### PRINCIPAIS:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2c2c2c?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
@@ -17,7 +18,6 @@
 ![React.js](https://img.shields.io/badge/React-2c2c2c?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-2c2c2c?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Danilo">
 
 &nbsp;
 &nbsp;
@@ -27,6 +27,10 @@
 ![NODE JS](https://img.shields.io/badge/Node%20js-2c2c2c?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![REACT](https://img.shields.io/badge/React-2c2c2c?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danilitoxp&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=2c2c2c" alt="Danilo oliveira Status" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilitoxp&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=2c2c2c" />
+</div>
 
 &nbsp;
 &nbsp;
