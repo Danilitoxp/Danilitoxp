@@ -1,8 +1,3 @@
-<div> 
-<a target="_blank" href="https://www.instagram.com/danilitoxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:danilooliveira.contato@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danilooliveiraxp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
  
 
@@ -29,8 +24,8 @@
 
 #### ESTUDANDO NO MOMENTO:
 
-![NODE JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NODE JS](https://img.shields.io/badge/Node%20js-2c2c2c?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![REACT](https://img.shields.io/badge/React-2c2c2c?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 
 &nbsp;
@@ -38,6 +33,11 @@
 
 #### CONTATOS:
 
+<div> 
+<a target="_blank" href="https://www.instagram.com/danilitoxp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:danilooliveira.contato@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danilooliveiraxp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
   
   
