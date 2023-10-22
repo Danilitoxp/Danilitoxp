@@ -1,5 +1,6 @@
-
- 
+<a href="https://instagram.com/Danilitoxp"><img src="https://img.shields.io/badge/-@Danilitoxp-D2691E?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC6pRNDrT97BC1WT8SWNfD7g"><img src="https://img.shields.io/badge/-Danilo Oliveira-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/danilooliveiraxp/"><img src="https://img.shields.io/badge/-Danilo%20Oliveira%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <img align="center" style="margin-bottom:100" width=100% src="./img/capaDanilo.jfif" />
 &nbsp;&nbsp;&nbsp;
